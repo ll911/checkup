@@ -18,7 +18,7 @@ checkup.config = {
 		"BucketName": "<bucket name here>"
 
 		// Local file system (Caddy recommended: https://caddyserver.com)
-		"url": "http://127.0.0.1:2015/"
+		"url": "https://checkup-d.data.gov.bc.ca/"
 	},
 
 	// The text to display along the top bar depending on overall status.
