@@ -12,10 +12,10 @@ checkup.config = {
 	// here will be visible to everyone, so use keys with ONLY read access!
 	"storage": {
 		// Amazon S3 - if using, ensure these are public, READ-ONLY credentials!
-		"AccessKeyID": "<key id here>",
-		"SecretAccessKey": "<not-so-secret key here>",
-		"Region": "<bucket region name here if you specified one>",
-		"BucketName": "<bucket name here>"
+		// "AccessKeyID": "<key id here>",
+		// "SecretAccessKey": "<not-so-secret key here>",
+		// "Region": "<bucket region name here if you specified one>",
+		// "BucketName": "<bucket name here>"
 
 		// Local file system (Caddy recommended: https://caddyserver.com)
 		"url": "https://checkup-d.data.gov.bc.ca/"
